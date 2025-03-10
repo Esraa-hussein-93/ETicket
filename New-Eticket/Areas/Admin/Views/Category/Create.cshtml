@@ -1,0 +1,20 @@
+﻿<div class="container my-3">
+    <div class="row">
+        <div class="col-12 d-flex justify-content-between align-items-center">
+            <h1>Create New Category</h1>
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-12">
+            <form action="/Admin/Category/Create" method="post">
+                <input type="hidden" class="form-control" name="Id" value="@Model.Id">
+
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Category Name</label> 
+                    <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name">
+                </div>
+                <button type="submit" class="btn btn-primary">Create</button>
+            </form>
+        </div>
+    </div>
+</div>

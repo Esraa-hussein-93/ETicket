@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\New-Eticket.bundle.scp.css",
+      "PackagePath": "staticwebassets\\New-Eticket.udm04snkuw.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\4cb0ba45-84e0-486f-bb15-3ed90039e50a.jpg",
+      "PackagePath": "staticwebassets\\images\\4cb0ba45-84e0-486f-bb15-3ed90039e50a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\4e6749d9-80a4-4bcc-841f-4e5b4059d2a8.jpg",
+      "PackagePath": "staticwebassets\\images\\4e6749d9-80a4-4bcc-841f-4e5b4059d2a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\50aba417-3431-4550-b87c-3716de16131e.jpg",
+      "PackagePath": "staticwebassets\\images\\50aba417-3431-4550-b87c-3716de16131e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\5288938e-0542-4396-ba05-dea5071fff34.jpg",
+      "PackagePath": "staticwebassets\\images\\5288938e-0542-4396-ba05-dea5071fff34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\cast1.png",
+      "PackagePath": "staticwebassets\\images\\cast1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\cast2.png",
+      "PackagePath": "staticwebassets\\images\\cast2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\cast3.png",
+      "PackagePath": "staticwebassets\\images\\cast3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\cast4.png",
+      "PackagePath": "staticwebassets\\images\\cast4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\cast5.png",
+      "PackagePath": "staticwebassets\\images\\cast5.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\cast6.png",
+      "PackagePath": "staticwebassets\\images\\cast6.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie1.png",
+      "PackagePath": "staticwebassets\\images\\movie1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie10.png",
+      "PackagePath": "staticwebassets\\images\\movie10.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie2.png",
+      "PackagePath": "staticwebassets\\images\\movie2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie3.png",
+      "PackagePath": "staticwebassets\\images\\movie3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie4.png",
+      "PackagePath": "staticwebassets\\images\\movie4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie5.png",
+      "PackagePath": "staticwebassets\\images\\movie5.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie6.png",
+      "PackagePath": "staticwebassets\\images\\movie6.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie7.png",
+      "PackagePath": "staticwebassets\\images\\movie7.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie8.png",
+      "PackagePath": "staticwebassets\\images\\movie8.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\images\\movie9.png",
+      "PackagePath": "staticwebassets\\images\\movie9.png"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.New-Eticket.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.New-Eticket.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.New-Eticket.props",
+      "PackagePath": "build\\New-Eticket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.New-Eticket.props",
+      "PackagePath": "buildMultiTargeting\\New-Eticket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.New-Eticket.props",
+      "PackagePath": "buildTransitive\\New-Eticket.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

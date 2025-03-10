@@ -1,0 +1,37 @@
+﻿<div class="container my-3">
+    <div class="row">
+        <div class="col-12 d-flex justify-content-between align-items-center">
+            <h1>Add New Cinema</h1>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col-12">
+            <form action="/Admin/Cinema/Create" method="post" enctype="multipart/form-data">
+                <input type="hidden" class="form-control" name="Id" value="@Model.Id">
+
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Cinema Name</label> 
+                    <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name">
+                </div>
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Discreption</label>
+                    <input type="text" class="form-control" id="Description" name="Description" value="@Model.Description">
+                </div>
+                <div class="mb-3">
+                    <label for="Img" class="form-label">Cinema Logo</label>
+                    <input type="file" class="form-control" id="Img" name="file" accept="image/*" onchange="previewImage(event)" value="@Model.CinemaLogo">
+                    <div class="mt-3">
+                        <img id="imgPreview" src="#" alt="Image Preview" style="max-width: 20%; height: auto; display: none;" />
+                    </div>
+                 
+                </div>
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Cinema Address</label> 
+                    <input type="text" class="form-control" id="Address" name="Address" value="@Model.Address">
+                </div>
+                <button type="submit" class="btn btn-primary">Add</button>
+            </form>
+        </div>
+    </div>
+</div>

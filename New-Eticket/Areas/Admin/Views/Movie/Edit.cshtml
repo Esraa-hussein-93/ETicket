@@ -1,0 +1,157 @@
+﻿@using E_Tickets.Models
+@model Movie
+
+
+<div class="container my-3">
+    <div class="row">
+        <div class="col-12 d-flex justify-content-between align-items-center">
+            <h1>Edit Movie</h1>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col-12">
+            <form action="/Admin/Movie/Edit" method="post" enctype="multipart/form-data">
+
+
+                <!-- Hidden field for Id -->
+                <input type="hidden" class="form-control" name="Id" value="@Model.Id">
+
+                <!-- Movie Name -->
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Movie Name</label>
+                    <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name" required>
+                </div>
+
+                <!-- Movie Description -->
+                <div class="mb-3">
+                    <label for="Description" class="form-label">Description</label>
+                    <textarea class="form-control" id="Description" name="Description" rows="3">@Model.Description</textarea>
+                </div>
+
+                <!-- Movie Price -->
+                <div class="mb-3">
+                    <label for="Price" class="form-label">Price</label>
+                    <input type="number" class="form-control" id="Price" name="Price" value="@Model.Price">
+                </div>
+
+                <!-- Movie Image URL -->
+                <div class="mb-3">
+                    <label for="Img" class="form-label">Movie Img</label>
+                    <input type="file" class="form-control" id="Img" name="imgfile" value="@Model.ImgUrl" accept="image/*" onchange="previewImage(event)">
+                    <div class="mt-3 position-relative" style="max-width: 20%;">
+                        <img id="imgPreview" src="~/images/@Model.ImgUrl" alt="Image Preview" style="width: 100%; height: auto; display: block;" />
+                        <a href="/Admin/Movie/DeleteImg?productId=@Model.Id" class="btn btn-danger btn-sm position-absolute top-0 end-0" style="transform: translate(50%, -50%);" onclick="deleteImage()">X</a>
+                    </div>
+                </div>
+
+
+                <!-- Movie Trailer URL -->
+                <div class="mb-3">
+                    <label for="Img" class="form-label">Movie Trailer</label>
+                    <input type="file" class="form-control" id="TrailerUrl" name="trailerFile" accept="video/*" />
+
+
+                    <div class="mt-3">
+                        <img id="imgPreview" src="#" alt="Image Preview" style="max-width: 20%; height: auto; display: none;" />
+                    </div>
+                </div>
+
+
+                <!-- Movie Start Date -->
+                <div class="mb-3">
+                    <label for="StartDate" class="form-label">Start Date</label>
+                    <input type="datetime-local" class="form-control" id="StartDate" name="StartDate" value="@Model.StartDate.ToString("yyyy-MM-ddTHH:mm")" required>
+                </div>
+
+                <!-- Movie End Date -->
+                <div class="mb-3">
+                    <label for="EndDate" class="form-label">End Date</label>
+                    <input type="datetime-local" class="form-control" id="EndDate" name="EndDate" value="@Model.EndDate.ToString("yyyy-MM-ddTHH:mm")" required>
+                </div>
+                <!-- Category Dropdown -->
+                <div class="mb-3">
+                    <label for="CategoryId" class="form-label"> Movie Category</label>
+                    <select class="form-select"  name="CategoryId">
+                    
+                        @foreach (var item in ViewData["Categories"] as List<Category>)
+                        {
+                            if (item.Id == Model.CategoryId)
+                            {
+                                <option value="@item.Id" selected>@item.Name</option>
+                            }
+                            else
+                            {
+                                <option value="@item.Id">@item.Name</option>
+                            }
+                        }
+
+                    </select>
+                </div>
+     
+                <!-- Cinema Dropdown -->
+                <div class="mb-3">
+                    <label for="CinemaId" class="form-label">Cinema</label>
+                    <select class="form-select"  name="CinemaId">
+
+
+                        @foreach (var item in ViewData["Cinemas"] as List<Cinema>)
+                        {
+                            if (item.Id == Model.CinemaId)
+                            {
+                                <option value="@item.Id" selected>@item.Name</option>
+                            }
+                            else
+                            {
+                                <option value="@item.Id">@item.Name</option>
+                            }
+                        }
+
+                    </select>
+                </div>
+
+                
+
+
+
+                <!-- Movie Status Dropdown -->
+                <div class="mb-3">
+                    <label for="MovieStatus" class="form-label">Movie Status</label>
+                    <select class="form-select" id="MovieStatus" name="MovieStatus">
+                        @foreach (var status in ViewData["MovieStatuses"] as List<MovieStatus>)
+                        {
+                            <option value="@status" )>@status</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- Submit Button -->
+                <button type="submit" class="btn btn-primary">Save</button>
+            </form>
+        </div>
+    </div>
+</div>
+<script>
+    function previewImage(event) {
+        const imgPreview = document.getElementById('imgPreview');
+        const file = event.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                imgPreview.src = e.target.result;
+                imgPreview.style.display = 'block';
+            }
+            reader.readAsDataURL(file);
+        } else {
+            imgPreview.style.display = 'none';
+            imgPreview.src = '';
+        }
+    }
+
+    function deleteImage() {
+        const imgPreview = document.getElementById('imgPreview');
+        imgPreview.src = '';
+        imgPreview.style.display = 'none';
+        document.getElementById('Img').value = '';
+    }
+</script>

@@ -1,0 +1,61 @@
+﻿@using E_Tickets.Models
+@model Actor
+
+
+<div class="container my-3">
+    <div class="row">
+        <div class="col-12 d-flex justify-content-between align-items-center">
+            <h1>Add New Actor</h1>
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class="col-12">
+            <form action="/Admin/Actor/Create" method="post" enctype="multipart/form-data">
+
+
+                <!-- Hidden field for Id -->
+                <input type="hidden" class="form-control" name="Id" value="@Model.Id">
+
+                <!-- Actor Name -->
+                <div class="mb-3">
+                    <label for="FirstName" class="form-label">Actor First Name</label>
+                    <input type="text" class="form-control" id="FirstName" name="FirstName" value="@Model.FirstName" required>
+                </div>
+                <div class="mb-3">
+                    <label for="LastName" class="form-label">Actor Last Name</label>
+                    <input type="text" class="form-control" id="LastName" name="LastName" value="@Model.LastName" required>
+                </div>
+
+                <!-- Actor Bio -->
+                <div class="mb-3">
+                    <label for="Bio" class="form-label">Bio</label>
+                    <textarea class="form-control" id="Bio" name="Bio" rows="3">@Model.Bio</textarea>
+                </div>
+
+                <!-- Actor News -->
+                <div class="mb-3">
+                    <label for="News" class="form-label">News</label>
+                    <textarea class="form-control" id="News" name="News" rows="3">@Model.News</textarea>
+                </div>
+
+
+                <!-- Profile Picture  -->
+
+                <div class="mb-3">
+                    <label for="Img" class="form-label">Profile Picture</label>
+                    <input type="file" class="form-control" id="Img" name="file" value="@Model.ProfilePicture" accept="image/*" onchange="previewImage(event)">
+                    <div class="mt-3 position-relative" style="max-width: 20%;">
+                        <img id="imgPreview" src="~/images/@Model.ProfilePicture" alt="Image Preview" style="width: 100%; height: auto; display: block;" />
+                        <a href="/Admin/Product/DeleteImg?Id=@Model.Id" class="btn btn-danger btn-sm position-absolute top-0 end-0" style="transform: translate(50%, -50%);" onclick="deleteImage()">X</a>
+                    </div>
+                </div>
+               
+
+               
+                <!-- Submit Button -->
+                <button type="submit" class="btn btn-primary">Add New Actor</button>
+            </form>
+        </div>
+    </div>
+</div>

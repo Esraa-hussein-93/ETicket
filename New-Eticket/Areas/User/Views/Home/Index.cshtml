@@ -1,0 +1,197 @@
+﻿<head>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+        <img src="~/images/logo.png" alt="Logo" class="navbar-brand" />
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="User/Home/Index">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="User/Home/Cinema">Cinemas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="User/Home/Category" >Categories</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/Account/Login">Login</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Movie section-->
+<section class="py-5 bg-light">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-1 row-cols-md-2 row-cols-lg-3 justify-content-center">
+            @foreach (var item in Model)
+            {
+                <div class="col mb-5">
+                    <div class="card h-100 shadow-lg border-0">
+                        <!-- Movie image-->
+                        <img class="card-img-top mb-4 poster-image" src="~/images/@item.ImgUrl" alt="@item.Name" />
+                        <!-- Movie details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Movie name -->
+                                <h5 class="fw-bolder mb-3">@item.Name</h5>
+
+                                <!-- Movie details grouped into a div with row/col for consistent layout -->
+                                <div class="row">
+                                    <div class="col-6 mb-3">
+                                        <strong>Price:</strong>
+                                        <p>@item.Price.ToString("c")</p>
+                                    </div>
+                                    <div class="col-6 mb-3">
+                                        <strong>Status:</strong>
+                                        <div>
+                                            @if (item.MovieStatus == E_Tickets.Models.MovieStatus.Upcoming)
+                                            {
+                                                <button type="button" class="btn btn-warning w-100">Upcoming</button>
+                                            }
+                                            @if (item.MovieStatus == E_Tickets.Models.MovieStatus.Available)
+                                            {
+                                                <button type="button" class="btn btn-success w-100">Available</button>
+                                            }
+                                            @if (item.MovieStatus == E_Tickets.Models.MovieStatus.Expired)
+                                            {
+                                                <button type="button" class="btn btn-danger w-100">Expired</button>
+                                            }
+                                        </div>
+                                    </div>
+                                    <div class="col-6 mb-3">
+                                        <strong>Start Date:</strong>
+                                        <p>@item.StartDate.ToString("MM/dd/yyyy")</p>
+                                    </div>
+                                    <div class="col-6 mb-3">
+                                        <strong>End Date:</strong>
+                                        <p>@item.EndDate.ToString("MM/dd/yyyy")</p>
+                                    </div>
+                                    <div class="col-6 mb-3">
+                                        <strong>Cinema:</strong>
+                                        <p>@item.Cinema.Name</p>
+                                    </div>
+                                    <div class="col-6 mb-3">
+                                        <strong>Category:</strong>
+                                        <p>@item.Category.Name</p>
+                                    </div>
+                                </div> <!-- End row div -->
+                            </div>
+                        </div>
+
+                        <!-- Product actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center">
+                                <a class="btn custom-blue-button mb-2" href="/User/Home/Details?Id=@item.Id">Show More</a>
+                                <button type="button" class="btn btn-dark w-100" disabled>Book Ticket</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!-- Additional Styles -->
+<style>
+    /* Styling for the blue 'Show More' button */
+    .custom-blue-button {
+        background-color: #007bff;
+        color: white;
+        padding: 12px 24px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+        .custom-blue-button:hover {
+            background-color: #0056b3;
+            transform: translateY(-2px); /* Small lift effect */
+        }
+
+    /* Poster image styling */
+    .poster-image {
+        width: 100%;
+        height: auto;
+        max-width: 300px;
+        object-fit: cover;
+        border-radius: 10px;
+        margin: 0 auto;
+    }
+
+    /* Button styles */
+    .btn-warning {
+        background-color: #ffcc00;
+        color: white;
+    }
+
+        .btn-warning:hover {
+            background-color: #e6b800;
+        }
+
+    .btn-success {
+        background-color: #28a745;
+        color: white;
+    }
+
+        .btn-success:hover {
+            background-color: #218838;
+        }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: white;
+    }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+        }
+
+    /* Button container */
+    .text-center {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    /* Add shadow to the card */
+    .card {
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Enhance table appearance */
+    .table td {
+        padding: 12px;
+        font-size: 14px;
+    }
+
+    /* Adjust spacing and typography */
+    .card-body {
+        padding: 20px;
+    }
+
+    .fw-bolder {
+        font-weight: bolder;
+        font-size: 1.2rem;
+    }
+
+    .py-5 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .bg-light {
+        background-color: #f8f9fa !important;
+    }
+</style>

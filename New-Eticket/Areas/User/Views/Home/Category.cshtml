@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "Categories";
+}
+
+<h2>Categories</h2>
+
+<!-- Render the categories in a table with hover effect -->
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Category Name</th>  <!-- Column for Category Name -->
+            <th scope="col"></th>        <!-- Column for the link -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <!-- Category Name Column -->
+                <td>@category.Name</td>  <!-- Display Category Name -->
+
+                <!-- Link to Category Details on the Right -->
+                <td class="text-end">
+                   
+                    <a href="" class="btn btn-info btn-sm btn-link">
+                        @category.Name  <!-- Display the category name as the link text -->
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    /* Custom styling for table rows */
+    .table-hover tbody tr:hover {
+        background-color: #f1f1f1; /* Light gray background on hover */
+    }
+
+    /* Optional: custom padding for table cells */
+    .table th, .table td {
+        padding: 15px; /* Adjust padding */
+    }
+
+    /* Optional: Change font size */
+    .table td, .table th {
+        font-size: 1.1rem;
+    }
+
+    /* Align the link to the right */
+    .text-end {
+        text-align: right;
+    }
+
+    /* Customize the link to look like a button with the same size */
+    .btn-link {
+        padding: 8px 16px;  /* Consistent padding to make it look like a button */
+        font-size: 1rem;    /* Same font size as buttons */
+        border-radius: 4px; /* Button-like rounded corners */
+        text-decoration: none; /* Remove the default underline */
+        display: inline-block; /* Ensure it's not an inline element */
+    }
+
+    /* Optional: Button styling when hovering */
+    .btn-link:hover {
+        background-color: #d1e7fd; /* Light blue background on hover */
+        color: #0d6efd;  /* Button text color */
+    }
+</style>

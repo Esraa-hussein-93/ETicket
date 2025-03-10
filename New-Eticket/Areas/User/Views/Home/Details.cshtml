@@ -1,0 +1,229 @@
+﻿<head>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+<!-- Movie section-->
+<section class="py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            <!-- Movie Image -->
+            <div class="col-md-6">
+                <img class="card-img-top mb-5 mb-md-0 rounded shadow-lg" src="~/images/@Model.ImgUrl" alt="@Model.Name" />
+            </div>
+
+            <!-- Movie Details -->
+            <div class="col-md-6">
+                <!-- Category and Movie Name -->
+                <div class="category mb-3">
+                    <span class="badge rounded-pill bg-info text-white">@Model.Category.Name</span>
+                </div>
+                <h1 class="display-5 fw-bolder text-dark">@Model.Name</h1>
+
+                <!-- Start Date, End Date, and Price -->
+                <div class="fs-5 mb-5 text-muted">
+                    <p><strong>Start Date:</strong> @Model.StartDate.ToString("MMMM dd, yyyy")</p>
+                    <p><strong>End Date:</strong> @Model.EndDate.ToString("MMMM dd, yyyy")</p>
+                    <p><strong>Price:</strong> @Model.Price.ToString("c")</p>
+                </div>
+
+                <!-- Movie Description -->
+                <p><strong>Description:</strong></p>
+                <p class="lead text-muted">@Model.Description</p>
+
+                <!-- Movie Trailer (Optional, if there's a URL) -->
+                @if (!string.IsNullOrEmpty(Model.TrailerUrl))
+                {
+                    <div class="my-4">
+                        <video class="w-100 rounded shadow-lg" controls>
+                            <source src="~/images/@Model.TrailerUrl" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                }
+
+ 
+
+                <!-- Go Back Button -->
+                <div class="d-flex justify-content-center align-items-center mt-4">
+                    <a href="/User/Home/index" class="btn btn-primary btn-lg shadow-sm">Go Back to HomePage</a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+                
+                    <!-- Related Movies -->
+   @*                  <section class="py-5 bg-light">
+                        <div class="container px-4 px-lg-5 mt-5">
+                            <h2 class="fw-bolder mb-4">Related Movies</h2>
+                            <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                                @foreach (var relatedMovie in Model.RelatedMovies)
+                                {
+                                    <div class="col mb-5">
+                                        <div class="card related-movie-card">
+                                <img class="card-img-top mb-5 mb-md-0 rounded shadow-lg" src="~/images/@Model.Movie.ImgUrl" alt="@Model.Movie.Name" />
+                                <div class="card-body">
+                                                <h5 class="card-title">@relatedMovie.Name</h5>
+                                                <p class="card-text">@relatedMovie.Description.Substring(0, Math.Min(100, relatedMovie.Description.Length))...</p>
+                                                <a href="@Url.Action("Details", "Movies", new { id = relatedMovie.Id })" class="btn btn-outline-primary">View Details</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </section>
+ *@
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Additional Styles -->
+<style>
+    /* Section Padding */
+    .py-5 {
+        padding-top: 3rem !important;
+        padding-bottom: 3rem !important;
+    }
+
+    /* Make sure images are responsive and have rounded corners */
+    .card-img-top {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    /* Category Style - Badge */
+    .category .badge {
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+        font-weight: 500;
+        letter-spacing: 1px;
+    }
+
+    /* Style for Category */
+    .category {
+        margin-bottom: 1rem;
+    }
+
+    /* Text style for Category */
+    .small {
+        font-size: 0.875rem;
+        color: #6c757d;
+    }
+
+    /* Style the movie name */
+    h1.display-5 {
+        font-size: 2.5rem;
+        font-weight: 600;
+        color: #333;
+    }
+
+    /* Movie description */
+    .lead {
+        font-size: 1.125rem;
+        font-weight: 400;
+        color: #495057;
+    }
+
+    /* Button styles */
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+        padding: 0.75rem 1.5rem;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: 1rem;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    /* Add shadow effects */
+    .shadow-lg {
+        box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Optional: spacing between the video and buttons */
+    .my-4 {
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    /* Custom video player style */
+    video {
+        width: 100%;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Style for the 'Go Back' Button */
+    .btn-lg {
+        font-size: 1.25rem;
+        padding: 0.75rem 2rem;
+    }
+
+    /* Related Movies Section Styles */
+    .related-movie-card {
+        border-radius: 10px;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease-in-out;
+    }
+
+        .related-movie-card:hover {
+            transform: scale(1.05);
+        }
+
+    /* Related movie cards */
+    .card-title {
+        font-size: 1.2rem;
+        font-weight: 500;
+    }
+
+    /* Related movie 'View Details' button */
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+
+        .btn-outline-primary:hover {
+            background-color: #007bff;
+            color: white;
+        }
+</style>

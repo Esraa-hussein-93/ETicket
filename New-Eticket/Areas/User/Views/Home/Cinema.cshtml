@@ -1,0 +1,39 @@
+﻿<head>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+
+<h1 class="text-center my-4">Cinemas</h1>
+
+@if (Model != null )
+{
+    <div class="row">
+        @foreach (var cinema in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    @if (!string.IsNullOrEmpty(cinema.CinemaLogo))
+                    {
+                        <img src="@cinema.CinemaLogo" class="card-img-top" alt="@cinema.Name Logo" style="height: 200px; object-fit: cover;" />
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@cinema.Name</h5>
+                        @if (!string.IsNullOrEmpty(cinema.Description))
+                        {
+                            <p class="card-text">@cinema.Description</p>
+                        }
+                        @if (!string.IsNullOrEmpty(cinema.Address))
+                        {
+                            <p class="card-text"><strong>Address:</strong> @cinema.Address</p>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No cinemas available.</p>
+}
