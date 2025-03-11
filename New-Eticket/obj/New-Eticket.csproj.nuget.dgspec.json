@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\New-Eticket.csproj": {}
+    "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\New-Eticket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\New-Eticket.csproj": {
+    "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\New-Eticket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\New-Eticket.csproj",
+        "projectUniqueName": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\New-Eticket.csproj",
         "projectName": "New-Eticket",
-        "projectPath": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\New-Eticket.csproj",
+        "projectPath": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\New-Eticket.csproj",
         "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\obj\\",
+        "outputPath": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,7 +13,10 @@ namespace New_Eticket.Areas.Admin.Controllers
     {
         //ApplicationDbContext dbContext = new ApplicationDbContext();
 
-        ICinemaRepository cinemaRepository;//= new CinemaRepository();
+       // ICinemaRepository cinemaRepository;//= new CinemaRepository();
+      
+        private readonly ICinemaRepository cinemaRepository;
+
         public CinemaController(ICinemaRepository cinemaRepository)
         {
             this.cinemaRepository = cinemaRepository;

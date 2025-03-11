@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\",
+  "WorkspaceRootPath": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\repositories\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\repositories\\cinemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\cinemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\areas\\admin\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\areas\\admin\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\repositories\\irepositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\irepositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\areas\\admin\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\repositories\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\areas\\admin\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\areas\\admin\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\eticket\\new-eticket\\new-eticket\\repositories\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\areas\\admin\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\areas\\admin\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\repositories\\cinemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\cinemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\repositories\\irepositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\irepositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|c:\\users\\asmaa\\desktop\\new-eticket\\new-eticket\\repositories\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15D921F3-21A1-4C0D-8CBC-FBB6FE7AC623}|New-Eticket\\New-Eticket.csproj|solutionrelative:new-eticket\\repositories\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 325,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,169 +78,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "CinemaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\CinemaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\CinemaRepository.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Repositories\\CinemaRepository.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\CinemaRepository.cs*",
-              "RelativeToolTip": "New-Eticket\\Repositories\\CinemaRepository.cs*",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\CinemaRepository.cs",
+              "RelativeToolTip": "New-Eticket\\Repositories\\CinemaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:58:28.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:58:28.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ActorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\ActorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\ActorRepository.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Repositories\\ActorRepository.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\ActorRepository.cs",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\ActorRepository.cs",
               "RelativeToolTip": "New-Eticket\\Repositories\\ActorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T17:52:12.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\appsettings.Development.json",
               "RelativeDocumentMoniker": "New-Eticket\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\appsettings.Development.json",
               "RelativeToolTip": "New-Eticket\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T17:34:14.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:34:14.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\appsettings.json",
               "RelativeDocumentMoniker": "New-Eticket\\appsettings.json",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\appsettings.json",
               "RelativeToolTip": "New-Eticket\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T17:34:12.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:34:12.463Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\DataAccess\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\DataAccess\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "New-Eticket\\DataAccess\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\DataAccess\\ApplicationDbContext.cs",
               "RelativeToolTip": "New-Eticket\\DataAccess\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:33:28.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:33:28.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\Repository.cs",
               "RelativeToolTip": "New-Eticket\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T17:29:37.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\MovieRepository.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Repositories\\MovieRepository.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\MovieRepository.cs*",
-              "RelativeToolTip": "New-Eticket\\Repositories\\MovieRepository.cs*",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "New-Eticket\\Repositories\\MovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:24:46.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:24:46.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\IRepositories\\IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\IRepositories\\IMovieRepository.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Repositories\\IRepositories\\IMovieRepository.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\IRepositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\IRepositories\\IMovieRepository.cs",
               "RelativeToolTip": "New-Eticket\\Repositories\\IRepositories\\IMovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:24:40.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:24:40.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "MovieController.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Areas\\Admin\\Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "New-Eticket\\Areas\\Admin\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAoAAAAAAIAWuIowwBoAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\MovieController.cs*",
+              "RelativeToolTip": "New-Eticket\\Areas\\Admin\\Controllers\\MovieController.cs*",
+              "ViewState": "AgIAABUAAAAAAICtHJAowB4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T17:16:02.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "CinemaController.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\CinemaController.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Areas\\Admin\\Controllers\\CinemaController.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\CinemaController.cs",
               "RelativeToolTip": "New-Eticket\\Areas\\Admin\\Controllers\\CinemaController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T17:15:55.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "ActorController.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\ActorController.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\ActorController.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Areas\\Admin\\Controllers\\ActorController.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\ActorController.cs",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\ActorController.cs",
               "RelativeToolTip": "New-Eticket\\Areas\\Admin\\Controllers\\ActorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T17:15:40.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Program.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Program.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Program.cs",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Program.cs",
               "RelativeToolTip": "New-Eticket\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAIDUIJg3wBUAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAABSg2AawBUAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T17:08:39.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "New-Eticket\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T17:02:05.904Z",
               "EditorCaption": ""
@@ -249,27 +243,25 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\IRepositories\\ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\IRepositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Repositories\\IRepositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\IRepositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\IRepositories\\ICategoryRepository.cs",
               "RelativeToolTip": "New-Eticket\\Repositories\\IRepositories\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:01:56.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:01:56.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "New-Eticket\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\Repositories\\CategoryRepository.cs*",
-              "RelativeToolTip": "New-Eticket\\Repositories\\CategoryRepository.cs*",
+              "ToolTip": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "New-Eticket\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:00:47.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:00:47.335Z"
             }
           ]
         },

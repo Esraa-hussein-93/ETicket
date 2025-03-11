@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("New-Eticket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5762e38daa5d59ab356a528c24442572765c8c39")]
 [assembly: System.Reflection.AssemblyProductAttribute("New-Eticket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("New-Eticket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

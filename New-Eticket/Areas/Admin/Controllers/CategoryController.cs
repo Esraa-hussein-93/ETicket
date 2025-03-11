@@ -11,7 +11,11 @@ namespace New_Eticket.Areas.Admin.Controllers
     public class CategoryController : Controller
     {
         //ApplicationDbContext dbContext = new ApplicationDbContext();
-        ICategoryRepository categoryRepository; //= new CategoryRepository();
+        //ICategoryRepository categoryRepository; //= new CategoryRepository();
+        
+        private readonly ICategoryRepository categoryRepository;
+     
+
 
         public CategoryController(ICategoryRepository categoryRepository)
         {

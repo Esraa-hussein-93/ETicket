@@ -16,15 +16,21 @@ namespace New_Eticket.Areas.Admin.Controllers
     public class MovieController : Controller
     {
         //  ApplicationDbContext dbContext = new ApplicationDbContext();
-        IMovieRepository movieRepository ;// new MovieRepository();
-        ICategoryRepository categoryRepository;//= new CategoryRepository();
-        ICinemaRepository cinemaRepository;// = new CinemaRepository();
+        //IMovieRepository movieRepository ;// new MovieRepository();
+        //ICategoryRepository categoryRepository;//= new CategoryRepository();
+        //ICinemaRepository cinemaRepository;// = new CinemaRepository();
 
+        private readonly IMovieRepository movieRepository;
+        private readonly ICategoryRepository categoryRepository;
+        private readonly ICinemaRepository cinemaRepository;
 
-        public MovieController(IMovieRepository movieRepository)
+        public MovieController(IMovieRepository movieRepository  , ICinemaRepository cinemaRepository, ICategoryRepository categoryRepository)
         {
             this.movieRepository = movieRepository;
+            this.cinemaRepository = cinemaRepository;
+            this.categoryRepository = categoryRepository;
         }
+       
         public IActionResult Index()
         {
             //var movies = dbContext.Movies.Include(e => e.Category).Include(e => e.Cinema);

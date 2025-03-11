@@ -4012,11 +4012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\New-Eticket.csproj",
+      "projectUniqueName": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\New-Eticket.csproj",
       "projectName": "New-Eticket",
-      "projectPath": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\New-Eticket.csproj",
+      "projectPath": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\New-Eticket.csproj",
       "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asmaa\\Desktop\\Eticket\\New-Eticket\\New-Eticket\\obj\\",
+      "outputPath": "C:\\Users\\Asmaa\\Desktop\\New-Eticket\\New-Eticket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4110,5 +4110,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

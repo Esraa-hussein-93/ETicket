@@ -12,7 +12,10 @@ namespace New_Eticket.Areas.Admin.Controllers
     public class ActorController : Controller
     {
         //ApplicationDbContext dbContext = new ApplicationDbContext();
-        IActorRepository actorRepository;//= new ActorRepository();
+        //IActorRepository actorRepository;//= new ActorRepository();
+        private readonly IActorRepository actorRepository;
+        
+
         public ActorController(IActorRepository actorRepository)
         {
             this.actorRepository = actorRepository;
