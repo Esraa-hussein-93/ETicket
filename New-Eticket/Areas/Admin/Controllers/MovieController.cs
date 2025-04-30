@@ -164,12 +164,7 @@ namespace New_Eticket.Areas.Admin.Controllers
 
             if (movieInDB != null && imgFile != null && imgFile.Length > 0)
             //if (movieInDB != null && imgFile != null && imgFile.Length > 0&& trailerFile!=null && trailerFile.Length>0)
-            //
-            //النية موجودة والله اني اضبط الايديت للفيديو بس الوقت مش موجود وحساه معقد وطويل كدا 
-            //والوقت دا عايزة اصلي فيه التروايح :(
-            // مش هيبقى تكديرة من التاسكات والعيال 
-            //  في الايديت مشكلة اصلا انه مش بيرضى يعدل لي اي صورة قبل كدا 
-            // ودا عايز يتعمل بعد رمضان علشان مخسرش صيامي 
+        
 
             {
                 // Save img in wwwroot
