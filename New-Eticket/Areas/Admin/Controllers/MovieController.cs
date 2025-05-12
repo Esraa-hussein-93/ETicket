@@ -100,43 +100,7 @@ namespace New_Eticket.Areas.Admin.Controllers
             return View(movie);
         }
 
-        //[HttpPost]
-        //public IActionResult Create(Movie movie, IFormFile? file)
-        //{
-        //    // Validation
-
-        //    if (ModelState.IsValid)
-        //    {
-        //        if (file != null && file.Length > 0)
-        //        {
-        //            // Save img in wwwroot
-        //            var fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
-        //            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images", fileName);
-
-        //            using (var stream = System.IO.File.Create(filePath))
-        //            {
-        //                file.CopyTo(stream);
-        //            }
-
-        //            // Save img name in db
-        //            movie.ImgUrl = fileName;
-        //        }
-
-        //        dbContext.Movies.Add(movie);
-        //        dbContext.SaveChanges();
-
-        //        return RedirectToAction("Index");
-        //    }
-
-        //    var categories = dbContext.Categories;
-        //    var cinemas = dbContext.Cinemas;
-        //    ViewData["Categories"] = categories.ToList();
-        //    ViewData["Cinemas"] = cinemas.ToList();
-        //    ViewData["MovieStatuses"] = Enum.GetValues(typeof(MovieStatus)).Cast<MovieStatus>().ToList();
-        //    //ViewBag.Categories = categories;
-        //    return View(movie);
-        //}
-
+        
         [HttpGet]
         public IActionResult Edit(int Id)
         {
